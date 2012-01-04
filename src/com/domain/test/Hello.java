@@ -4,6 +4,6 @@ package com.domain.test;
 public class Hello {
 
     public void print (){
-        System.out.println("Hello world");
+        System.out.println("Hello baby");
     }
 }
